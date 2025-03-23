@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "RUNNING",
+        "icon": "🏃"
+    },
+    {
+        "id": 2,
+        "name": "LIFESTYLE",
+        "icon": "👟"
+    },
+    {
+        "id": 3,
+        "name": "BASKETBALL",
+        "icon": "🏀"
+    },
+    {
+        "id": 4,
+        "name": "TRAINING",
+        "icon": "💪"
+    }
+]

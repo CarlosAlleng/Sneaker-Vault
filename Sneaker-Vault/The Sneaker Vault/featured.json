@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Nike",
+        "image": "gray_sneaker",
+        "alt": "Limited Edition - New Release"
+    },
+    {
+        "id": 2,
+        "name": "adidas",
+        "image": "green_sneaker",
+        "alt": "Premium Comfort - Trending Now"
+    },
+    {
+        "id": 3,
+        "name": "Puma",
+        "image": "red",
+        "alt": "Premium Comfort - Trending Now"
+    }
+]

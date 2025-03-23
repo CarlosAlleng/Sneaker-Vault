@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "New Balance",
+        "price": "$129",
+        "image": "blue_sneaker",
+        "color": "blue"
+    },
+    {
+        "id": 2,
+        "name": "Reebok",
+        "price": "$159",
+        "image": "yellow_sneaker",
+        "color": "yellow"
+    },
+    {
+        "id": 3,
+        "name": "Nike Air Max",
+        "price": "$199",
+        "image": "purple_sneaker",
+        "color": "purple"
+    },
+    {
+        "id": 4,
+        "name": "Adidas Ultraboost",
+        "price": "$179",
+        "image": "orange_sneaker",
+        "color": "orange"
+    }
+]

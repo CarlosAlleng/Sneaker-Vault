@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "New Balance Edzőcipő - white 3.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "New Balance Edzőcipő - white 4.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "New Balance Edzőcipő - white.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
